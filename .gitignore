@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vite/
+*.log
+factory-screenshot.*
+factory-layout-*.jpg
+!docs/images/factory-layout-1920.jpg
